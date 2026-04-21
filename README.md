@@ -236,6 +236,3 @@ To also remove stored data volumes:
 docker-compose down -v
 ```
 
-## License
-
-MIT
